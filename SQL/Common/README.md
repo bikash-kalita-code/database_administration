@@ -1,0 +1,1 @@
+This file contains the concepts and information for thoses topics which are common to all DBMS listed inside the `SQL` directory.
